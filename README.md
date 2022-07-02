@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chiagoeziem David</h1>
+<h1 align="center">Hi 👋, I'm Chiagoziem David</h1>
 <h3 align="center">Am a Back-end web developer with vast experience in PHP, JavaScript, Java and Laravel Framework. I have a great taste in creating solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guzbyte-tech&label=Profile%20views&color=0e75b6&style=flat" alt="guzbyte-tech" /> </p>

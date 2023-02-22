@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS NextJS and NodeJS**
 
-- 💬 Ask me about **JAVA PHP, Javascript and Laravel**
+- 💬 Ask me about **JAVA, PHP, Javascript and Laravel**
 
 - 📫 How to reach me **davidchiagoziem079@gmail.com**
 

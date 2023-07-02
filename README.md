@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/guzbyte" target="blank"><img src="https://img.shields.io/twitter/follow/guzbyte?logo=twitter&style=for-the-badge" alt="guzbyte" /></a> </p>
 
-- 🔭 I’m currently working on **an advanced school management system**
-
-- 🌱 I’m currently learning **ReactJS NextJS and NodeJS**
 
 - 💬 Ask me about **JAVA, PHP, Javascript and Laravel**
 
